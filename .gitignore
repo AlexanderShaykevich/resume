@@ -1,0 +1,8 @@
+# игнорировать системные файлы и логи
+*.log
+*.lock
+*.tmp
+*.DS_Store
+Thumbs.db
+*cache
+
