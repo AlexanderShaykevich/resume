@@ -6,5 +6,5 @@ My skills:
 1. Java basics
 1. Git
 
-![photo](img/photo.JPG)
+![photo](img/photo.jpg)
 
